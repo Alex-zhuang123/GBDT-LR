@@ -577,3 +577,4 @@ if __name__ == '__main__':
     plt.ylabel('TPR', fontsize=fontsize_1)
     plt.title('ROC', fontsize=fontsize_1)
     plt.legend(loc="lower right", fontsize=fontsize_1)
+    print(a)
