@@ -647,4 +647,3 @@ class FeatureSelector():
 
     def reset_plot(self):
         plt.rcParams = plt.rcParamsDefault
-    print(a)
